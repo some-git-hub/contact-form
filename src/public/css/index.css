@@ -39,8 +39,8 @@
     color: #aaa;
 }
 
-.contact-form__input input,
-.contact-form__textarea textarea{
+.contact-form__input,
+.contact-form__textarea{
     width: 750px; /* 幅の統一 */
     padding: 10px;
     border: 1px solid #ddd;
@@ -48,12 +48,12 @@
     /* appearance: none; */
 }
 
-.contact-form__input input{
+.contact-form__input{
     font-size: 15px;
     height: 40px;
 }
 
-.contact-form__textarea textarea{
+.contact-form__textarea{
     font-size: 15px;
     height: 200px;
 }
@@ -64,7 +64,7 @@
     color: red;
 }
 
-.contact-form__button button{
+.contact-form__button-submit{
     padding: 10px 100px;
     margin-top: 25px;
     background-color: black;

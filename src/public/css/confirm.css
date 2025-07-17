@@ -11,7 +11,7 @@ text-align: center;
     /* border: 3px solid blue; */
 }
 
-.form {
+.confirm-table__wrapper {
     width: 60%;
     margin: 15px auto;
     /* ブロック要素の中央寄せ ( 条件 : widthの設定 ) */
@@ -19,9 +19,6 @@ text-align: center;
 
 .confirm-table__container{
     border: 2px solid #eee;
-}
-
-.confirm-table__inner{
     width: 100%;
 }
 
@@ -40,18 +37,18 @@ text-align: center;
     background-color: #eee;
 }
 
-.confirm-table__contents{
+.confirm-table__contents-area{
     padding: 15px;
 }
 
-.confirm-table__contents input{
+.confirm-table__contents{
     font-size: 20px;
     width: 100%;
     border: none;
     /* background-color: red; */
 }
 
-.confirm-table__button--submit{
+.confirm-table__button-submit{
     padding: 10px 100px;
     margin-top: 60px;
     background-color: black;
