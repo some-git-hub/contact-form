@@ -18,12 +18,12 @@ text-align: center;
 }
 
 .confirm-table__container{
-    border: 2px solid #eee;
+    border: 2px solid #ddd;
     width: 100%;
 }
 
 .confirm-table__row{
-    border-bottom: 2px solid #eee;
+    border-bottom: 2px solid #ddd;
 }
 
 .confirm-table__row:last-child{
