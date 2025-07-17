@@ -16,7 +16,7 @@
     background-color: rgb(255, 195, 195);
 } */
 
-.contact-form__wrapper {
+.contact-form__wrapper{
     width: 60%;
     margin: 15px auto;
     /* ブロック要素の中央寄せ ( 条件 : widthの設定 ) */

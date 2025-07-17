@@ -2,7 +2,7 @@
 text-align: center;
 }
 
-.confirm-table__heading {
+.confirm-table__heading{
     width: 100%;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -11,7 +11,7 @@ text-align: center;
     /* border: 3px solid blue; */
 }
 
-.confirm-table__wrapper {
+.confirm-table__wrapper{
     width: 60%;
     margin: 15px auto;
     /* ブロック要素の中央寄せ ( 条件 : widthの設定 ) */
@@ -22,7 +22,7 @@ text-align: center;
     width: 100%;
 }
 
-.confirm-table__row {
+.confirm-table__row{
     border-bottom: 2px solid #eee;
 }
 
